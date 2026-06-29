@@ -7,10 +7,10 @@ An end-to-end credit card data analysis project built using **SQL**, **Excel**, 
 ## 📊 Dashboard Preview
 
 ### Credit Card Transaction Report
-![Credit Card Transaction Report](images/creditcardtransctionreport.png)
+![Credit Card Transaction Report](images/creditcardtransctionreport.png.png)
 
 ### CC Customer Report
-![CC Customer Report](images/customertransactionreport.png)
+![CC Customer Report](images/customertransactionreport.png.png)
 
 ---
 
